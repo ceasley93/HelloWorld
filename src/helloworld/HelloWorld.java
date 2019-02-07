@@ -17,4 +17,9 @@ public class HelloWorld {
        System.out.println("Christopher Easley"); 
     }
     
+    public static void Joey() {
+        // I accept that this method will never be run.
+        System.out.println("Joey Pekar");
+        
+    }
 }
