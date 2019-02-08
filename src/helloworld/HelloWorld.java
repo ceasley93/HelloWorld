@@ -22,4 +22,7 @@ public class HelloWorld {
         System.out.println("Joey Pekar");
         
     }
+    public static void Franklin(){
+        System.out.println("Spenser Franklin");
+    }
 }
